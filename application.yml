@@ -1,2 +1,2 @@
-app
-  message=Hello from GIT
+app:
+  message: Hello from GIT
