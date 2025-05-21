@@ -1,4 +1,4 @@
 app:
   config:
     message: Hello from GIT
-    configServerUrl: http://localhost:8888
+    eureka-server-url: http://localhost:8761/eureka/
