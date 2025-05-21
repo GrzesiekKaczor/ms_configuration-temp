@@ -1,4 +1,4 @@
 app:
   config:
     message: Hello from GIT
-    config-server-url: http://localhost:8888
+    configServerUrl: http://localhost:8888
